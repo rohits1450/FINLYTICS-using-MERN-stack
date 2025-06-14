@@ -1,29 +1,38 @@
-FINLYTICS - Expense Tracking App with AI Assistance
-Overview:
-Finlytics is a modern expense tracking application designed to simplify financial management. Built using the MERN stack, the app integrates AI to provide personalized insights and suggestions, helping users make smarter financial decisions.
+Finlytic
+Expense Tracking App with AI Assistance
 
-Whether you're tracking daily expenses or planning for long-term goals, Finlytic ensures that your financial health is always a priority.
+Overview
+Finlytic is a cutting-edge expense tracking application that combines the power of the MERN stack with AI-driven financial insights. This app helps users manage their finances effortlessly, offering personalized suggestions to promote better financial habits.
 
-Features:
-Expense Tracking: Record, categorize, and analyze your daily expenditures.
+Features
+Expense Tracking
+Record and categorize daily expenses efficiently.
 
-AI Insights: Get AI-powered suggestions and trends based on your spending habits.
+AI Insights
+Leverage AI to analyze spending patterns and receive tailored financial advice.
 
-Interactive Dashboard: Visualize your financial data with graphs and charts.
+Interactive Dashboard
+Visualize financial data with dynamic graphs and reports.
 
-Secure Authentication: User login and registration with secure session handling.
+Secure Authentication
+Robust user authentication for data privacy and security.
 
-Cross-Platform Access: Accessible on both desktop and mobile devices.
+Cross-Platform Accessibility
+Seamlessly use the app on both desktop and mobile devices.
 
-Tech Stack:
-Frontend: React.js
+Tech Stack
+| Component          | Technology                                  |
+| ------------------ | ------------------------------------------- |
+| **Frontend**       | React.js                                    |
+| **Backend**        | Node.js, Express.js                         |
+| **Database**       | MongoDB Atlas                               |
+| **API Testing**    | Postman                                     |
+| **AI Integration** | Custom AI algorithms for financial insights |
 
-Backend: Node.js, Express.js
+Contact
+For queries or support, connect with us:
 
-Database: MongoDB Atlas
+Email: rohitselvam2006@gmail.com
 
-API Testing: Postman
-
-AI Integration: Custom AI algorithms integrated with the app for insightful recommendations.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------
 --> Currently in development
