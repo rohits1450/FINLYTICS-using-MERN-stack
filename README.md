@@ -1,4 +1,5 @@
-Finlytic
+FINLYTICS
+
 Expense Tracking App with AI Assistance
 
 Overview:
