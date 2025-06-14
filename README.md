@@ -1,10 +1,12 @@
 Finlytic
 Expense Tracking App with AI Assistance
 
-Overview
+Overview:
+
 Finlytic is a cutting-edge expense tracking application that combines the power of the MERN stack with AI-driven financial insights. This app helps users manage their finances effortlessly, offering personalized suggestions to promote better financial habits.
 
-Features
+Features:
+
 Expense Tracking
 Record and categorize daily expenses efficiently.
 
@@ -20,7 +22,8 @@ Robust user authentication for data privacy and security.
 Cross-Platform Accessibility
 Seamlessly use the app on both desktop and mobile devices.
 
-Tech Stack
+Tech Stack:
+
 | Component          | Technology                                  |
 | ------------------ | ------------------------------------------- |
 | **Frontend**       | React.js                                    |
@@ -29,7 +32,8 @@ Tech Stack
 | **API Testing**    | Postman                                     |
 | **AI Integration** | Custom AI algorithms for financial insights |
 
-Contact
+Contact:
+
 For queries or support, connect with us:
 
 Email: rohitselvam2006@gmail.com
