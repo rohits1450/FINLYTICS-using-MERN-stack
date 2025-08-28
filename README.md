@@ -40,4 +40,4 @@ For queries or support, connect with us:
 Email: rohitselvam2006@gmail.com
 
 -------------------------------------------------------------------
---> Currently in development(frontend + AI deployment)
+--> Currently in Progress
