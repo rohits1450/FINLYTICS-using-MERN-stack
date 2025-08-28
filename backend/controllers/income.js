@@ -1,9 +1,10 @@
-const IncomeSchema= require("../models/IncomeModel")
+const IncomeSchema= require("../models/incomemodel")
 
-exports.addIncome = async (req, res) =>{
-const {title, amount, category, description, date}  = req.body
 
-    const income = new IncomeSchema({
+exports.addIncome = async (req, res) => {
+    const {title, amount, category, description, date}  = req.body
+
+    const income = IncomeSchema({
         title,
         amount,
         category,
@@ -16,7 +17,7 @@ const {title, amount, category, description, date}  = req.body
         if(!title || !category || !description || !date){
             return res.status(400).json({message: 'All fields are required!'})
         }
-        if(typeof amount !== 'number' || amount <= 0){
+        if(amount <= 0 || !amount === 'number'){
             return res.status(400).json({message: 'Amount must be a positive number!'})
         }
         await income.save()
@@ -27,6 +28,7 @@ const {title, amount, category, description, date}  = req.body
 
     console.log(income)
 }
+
 exports.getIncomes = async (req, res) =>{
     try {
         const incomes = await IncomeSchema.find().sort({createdAt: -1})
