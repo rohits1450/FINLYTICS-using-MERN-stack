@@ -8,7 +8,7 @@ Finlytics is a cutting-edge expense tracking application that combines the power
 
 Here’s a preview of the app:
 
-![Dashboard Screenshot](./screenshots/dashboard.png)
+![Dashboard Screenshot](./dashboard.png)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Features:
