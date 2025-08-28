@@ -6,6 +6,7 @@ Overview:
 
 Finlytics is a cutting-edge expense tracking application that combines the power of the MERN stack with AI-driven financial insights. This app helps users manage their finances effortlessly, offering personalized suggestions to promote better financial habits.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Features:
 
 Expense Tracking
@@ -23,6 +24,8 @@ Robust user authentication for data privacy and security.
 Cross-Platform Accessibility
 Seamlessly use the app on both desktop and mobile devices.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Tech Stack:
 
 | Component          | Technology                                  |
@@ -33,11 +36,13 @@ Tech Stack:
 | **API Testing**    | Postman                                     |
 | **AI Integration** | Custom AI algorithms for financial insights |
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Contact:
 
 For queries or support, connect with us:
 
 Email: rohitselvam2006@gmail.com
 
--------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --> Currently in Progress
